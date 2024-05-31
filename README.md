@@ -1,5 +1,4 @@
 # filter_links_csv_python
-Descrição
 O script filtrar_links.py lê um arquivo CSV, filtra os links de imagens presentes nas células (com extensões .jpg, .jpeg, .png), e salva o resultado em um novo arquivo CSV. O script foi projetado para identificar e manter apenas os links de imagens, removendo o restante do texto.
 
 Dependências
